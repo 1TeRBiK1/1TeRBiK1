@@ -29,7 +29,7 @@ Hi! I’m a Frontend Developer with experience in various technologies and frame
 
 ## Career History
 
-### WEB UI Developer - Globant / December 2022 - March 2023
+### WEB UI Developer - Globant / December 2022 - May 2023
 **Project description:** Suggestion board internal application.
 
 **Responsibilities:**
